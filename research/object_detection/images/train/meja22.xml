@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>meja22.JPG</filename>
+	<path>C:\ObjectDetection\models\research\object_detection\image\train\meja22.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>173</ymin>
+			<xmax>267</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>orang34.jpg</filename>
+	<path>C:\ObjectDetection\models\research\object_detection\image\train\orang34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manusia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>77</ymin>
+			<xmax>155</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

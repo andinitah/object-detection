@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>gelas</folder>
+	<filename>gelas34.JPG</filename>
+	<path>D:\DATASET\gelas\gelas34.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tempat minum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>101</ymin>
+			<xmax>329</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

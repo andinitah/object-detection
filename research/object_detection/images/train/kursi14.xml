@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kursi14.JPG</filename>
+	<path>C:\ObjectDetection\models\research\image\train\kursi14.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>43</ymin>
+			<xmax>294</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

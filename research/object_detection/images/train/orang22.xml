@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>orang22.JPG</filename>
+	<path>D:\DATASET\manusia\New folder\resized\orang22.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manusia</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>171</ymin>
+			<xmax>119</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>manusia</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>177</ymin>
+			<xmax>214</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
